@@ -1,0 +1,5 @@
+train: data/train/images
+val: data/validation/images
+
+nc: 4
+names: ['L', 'M', 'S', 'Xs']
