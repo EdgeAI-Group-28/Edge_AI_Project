@@ -2,4 +2,4 @@ train: data/train/images
 val: data/validation/images
 
 nc: 3
-names: ['Underfill', 'Standard', 'Overflow']
+names: ['Overflow','Standard','Underfill',]
